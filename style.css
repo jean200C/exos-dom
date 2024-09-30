@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#panier {
+    width: 300px;
+    margin: auto;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 0 5px;
+}
+
+.like.active {
+    color: red;
+}
